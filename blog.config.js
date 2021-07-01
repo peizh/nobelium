@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Pete Pei', //TODO
   email: 'peizh@live.com', //TODO
   link: 'https://peizh.vercel.app', //TODO
-  description: 'This gonna be an awesome website.', //TODO
+  description: 'Life of a Procrastinator.', //TODO
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
