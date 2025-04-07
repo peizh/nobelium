@@ -2,9 +2,10 @@ const BLOG = {
   title: "Pete's Blog", //TODO
   author: 'Pete Pei', //TODO
   email: 'peizh@live.com', //TODO
-  link: 'https://peizh.vercel.app', //TODO
+  link: 'https://peizh.live', //TODO
   description: 'Life of a Procrastinator.', //TODO
   lang: 'en-US',
+  timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
